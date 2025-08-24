@@ -3,3 +3,8 @@
 Since I have the Digital Electronics basic so I will started with verilog knowledge. The software that I have using was Icarus verilog and GTK wave. This software is not as what I have learn before (click to open)
 Instread, it required to using command promp (cmd) in my Windows PC. 
 
+First of all, I am going to set-up the software. Add the iverilog path into 
+environment variable (C:\iverilog\bin).
+
+- using iverilog -v to check installation
+
